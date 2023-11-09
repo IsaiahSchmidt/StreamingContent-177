@@ -1,0 +1,11 @@
+c:\Users\isaia\OneDrive\Desktop\ElevenFiftyProjects_177\dotnetProjects\StreamingContent-177\StreamingContentData\bin\Debug\net7.0\StreamingContentData.deps.json
+c:\Users\isaia\OneDrive\Desktop\ElevenFiftyProjects_177\dotnetProjects\StreamingContent-177\StreamingContentData\bin\Debug\net7.0\StreamingContentData.dll
+c:\Users\isaia\OneDrive\Desktop\ElevenFiftyProjects_177\dotnetProjects\StreamingContent-177\StreamingContentData\bin\Debug\net7.0\StreamingContentData.pdb
+c:\Users\isaia\OneDrive\Desktop\ElevenFiftyProjects_177\dotnetProjects\StreamingContent-177\StreamingContentData\obj\Debug\net7.0\StreamingContentData.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\isaia\OneDrive\Desktop\ElevenFiftyProjects_177\dotnetProjects\StreamingContent-177\StreamingContentData\obj\Debug\net7.0\StreamingContentData.AssemblyInfoInputs.cache
+c:\Users\isaia\OneDrive\Desktop\ElevenFiftyProjects_177\dotnetProjects\StreamingContent-177\StreamingContentData\obj\Debug\net7.0\StreamingContentData.AssemblyInfo.cs
+c:\Users\isaia\OneDrive\Desktop\ElevenFiftyProjects_177\dotnetProjects\StreamingContent-177\StreamingContentData\obj\Debug\net7.0\StreamingContentData.csproj.CoreCompileInputs.cache
+c:\Users\isaia\OneDrive\Desktop\ElevenFiftyProjects_177\dotnetProjects\StreamingContent-177\StreamingContentData\obj\Debug\net7.0\StreamingContentData.dll
+c:\Users\isaia\OneDrive\Desktop\ElevenFiftyProjects_177\dotnetProjects\StreamingContent-177\StreamingContentData\obj\Debug\net7.0\refint\StreamingContentData.dll
+c:\Users\isaia\OneDrive\Desktop\ElevenFiftyProjects_177\dotnetProjects\StreamingContent-177\StreamingContentData\obj\Debug\net7.0\StreamingContentData.pdb
+c:\Users\isaia\OneDrive\Desktop\ElevenFiftyProjects_177\dotnetProjects\StreamingContent-177\StreamingContentData\obj\Debug\net7.0\ref\StreamingContentData.dll
