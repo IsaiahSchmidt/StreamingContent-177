@@ -1,0 +1,15 @@
+C:\Users\isaia\OneDrive\Desktop\ElevenFiftyProjects_177\dotnetProjects\StreamingContent-177\StreamingContentRepository\bin\Debug\net7.0\StreamingContentRepository.deps.json
+C:\Users\isaia\OneDrive\Desktop\ElevenFiftyProjects_177\dotnetProjects\StreamingContent-177\StreamingContentRepository\bin\Debug\net7.0\StreamingContentRepository.dll
+C:\Users\isaia\OneDrive\Desktop\ElevenFiftyProjects_177\dotnetProjects\StreamingContent-177\StreamingContentRepository\bin\Debug\net7.0\StreamingContentRepository.pdb
+C:\Users\isaia\OneDrive\Desktop\ElevenFiftyProjects_177\dotnetProjects\StreamingContent-177\StreamingContentRepository\bin\Debug\net7.0\StreamingContentData.dll
+C:\Users\isaia\OneDrive\Desktop\ElevenFiftyProjects_177\dotnetProjects\StreamingContent-177\StreamingContentRepository\bin\Debug\net7.0\StreamingContentData.pdb
+C:\Users\isaia\OneDrive\Desktop\ElevenFiftyProjects_177\dotnetProjects\StreamingContent-177\StreamingContentRepository\obj\Debug\net7.0\StreamingContentRepository.csproj.AssemblyReference.cache
+C:\Users\isaia\OneDrive\Desktop\ElevenFiftyProjects_177\dotnetProjects\StreamingContent-177\StreamingContentRepository\obj\Debug\net7.0\StreamingContentRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaia\OneDrive\Desktop\ElevenFiftyProjects_177\dotnetProjects\StreamingContent-177\StreamingContentRepository\obj\Debug\net7.0\StreamingContentRepository.AssemblyInfoInputs.cache
+C:\Users\isaia\OneDrive\Desktop\ElevenFiftyProjects_177\dotnetProjects\StreamingContent-177\StreamingContentRepository\obj\Debug\net7.0\StreamingContentRepository.AssemblyInfo.cs
+C:\Users\isaia\OneDrive\Desktop\ElevenFiftyProjects_177\dotnetProjects\StreamingContent-177\StreamingContentRepository\obj\Debug\net7.0\StreamingContentRepository.csproj.CoreCompileInputs.cache
+C:\Users\isaia\OneDrive\Desktop\ElevenFiftyProjects_177\dotnetProjects\StreamingContent-177\StreamingContentRepository\obj\Debug\net7.0\StreamingContentRepository.csproj.CopyComplete
+C:\Users\isaia\OneDrive\Desktop\ElevenFiftyProjects_177\dotnetProjects\StreamingContent-177\StreamingContentRepository\obj\Debug\net7.0\StreamingContentRepository.dll
+C:\Users\isaia\OneDrive\Desktop\ElevenFiftyProjects_177\dotnetProjects\StreamingContent-177\StreamingContentRepository\obj\Debug\net7.0\refint\StreamingContentRepository.dll
+C:\Users\isaia\OneDrive\Desktop\ElevenFiftyProjects_177\dotnetProjects\StreamingContent-177\StreamingContentRepository\obj\Debug\net7.0\StreamingContentRepository.pdb
+C:\Users\isaia\OneDrive\Desktop\ElevenFiftyProjects_177\dotnetProjects\StreamingContent-177\StreamingContentRepository\obj\Debug\net7.0\ref\StreamingContentRepository.dll

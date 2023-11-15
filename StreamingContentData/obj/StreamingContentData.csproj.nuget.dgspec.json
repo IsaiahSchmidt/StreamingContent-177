@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\isaia\\OneDrive\\Desktop\\ElevenFiftyProjects_177\\dotnetProjects\\StreamingContent-177\\StreamingContentData\\StreamingContentData.csproj": {}
+    "C:\\Users\\isaia\\OneDrive\\Desktop\\ElevenFiftyProjects_177\\dotnetProjects\\StreamingContent-177\\StreamingContentData\\StreamingContentData.csproj": {}
   },
   "projects": {
-    "c:\\Users\\isaia\\OneDrive\\Desktop\\ElevenFiftyProjects_177\\dotnetProjects\\StreamingContent-177\\StreamingContentData\\StreamingContentData.csproj": {
+    "C:\\Users\\isaia\\OneDrive\\Desktop\\ElevenFiftyProjects_177\\dotnetProjects\\StreamingContent-177\\StreamingContentData\\StreamingContentData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\isaia\\OneDrive\\Desktop\\ElevenFiftyProjects_177\\dotnetProjects\\StreamingContent-177\\StreamingContentData\\StreamingContentData.csproj",
+        "projectUniqueName": "C:\\Users\\isaia\\OneDrive\\Desktop\\ElevenFiftyProjects_177\\dotnetProjects\\StreamingContent-177\\StreamingContentData\\StreamingContentData.csproj",
         "projectName": "StreamingContentData",
-        "projectPath": "c:\\Users\\isaia\\OneDrive\\Desktop\\ElevenFiftyProjects_177\\dotnetProjects\\StreamingContent-177\\StreamingContentData\\StreamingContentData.csproj",
+        "projectPath": "C:\\Users\\isaia\\OneDrive\\Desktop\\ElevenFiftyProjects_177\\dotnetProjects\\StreamingContent-177\\StreamingContentData\\StreamingContentData.csproj",
         "packagesPath": "C:\\Users\\isaia\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\isaia\\OneDrive\\Desktop\\ElevenFiftyProjects_177\\dotnetProjects\\StreamingContent-177\\StreamingContentData\\obj\\",
+        "outputPath": "C:\\Users\\isaia\\OneDrive\\Desktop\\ElevenFiftyProjects_177\\dotnetProjects\\StreamingContent-177\\StreamingContentData\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\isaia\\AppData\\Roaming\\NuGet\\NuGet.Config"
