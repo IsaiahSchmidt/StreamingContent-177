@@ -43,17 +43,26 @@ public class StreamingContentRepository
         //  _contentDb.SingleOrDefault(c => c.Title == title);      //* linq version
     }
     // Update method
-    public void UpdateExistingContent(string originalTitle, StreamingContentEntity updatedData)
+    public bool UpdateExistingContent(string originalTitle, StreamingContentEntity updatedData)
     {
         // retrieve streaming content objects from our collection by title
         StreamingContentEntity entityInDb = GetStreamingContentByTitle(originalTitle);
-        // update the object with the properties that I am wanting to update
-        entityInDb.Title = updatedData.Title;
-        entityInDb.Location = updatedData.Location;
-        entityInDb.StarRating = updatedData.StarRating;
-        entityInDb.MaturityRating = updatedData.MaturityRating;
-        entityInDb.Description = updatedData.Description;
-        entityInDb.GenreType = updatedData.GenreType;
+        if(entityInDb != null)
+        {
+            // update the object with the properties that I am wanting to update
+            entityInDb.Title = updatedData.Title;
+            entityInDb.Location = updatedData.Location;
+            entityInDb.StarRating = updatedData.StarRating;
+            entityInDb.MaturityRating = updatedData.MaturityRating;
+            entityInDb.Description = updatedData.Description;
+            entityInDb.GenreType = updatedData.GenreType;
+
+            return true;
+        }
+        else
+        {
+            return false;
+        }
     }
 
     // Delete method

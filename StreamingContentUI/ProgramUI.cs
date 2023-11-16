@@ -48,7 +48,7 @@ public class ProgramUI
                     RemoveContent();
                     break;
                 case "5":
-                    // UpdateExistingContent();
+                    UpdateExistingContent();
                     break;
                 case "6":
                     isRunning = CloseApplication();
@@ -74,6 +74,8 @@ public class ProgramUI
 
     private void ShowAllContent()
     {
+        Console.Clear();
+
         List<StreamingContentEntity> listOfContent = _repo.GetAllStreamingContent();
 
         if(listOfContent.Count > 0)
@@ -316,6 +318,34 @@ public class ProgramUI
         {
             System.Console.WriteLine("invalid selection");
         }
+        PressAnyKey();
+    }
+
+    private void UpdateExistingContent()
+    {
+        System.Console.WriteLine("Enter a title:");
+
+        string userInput = Console.ReadLine()!;
+
+        StreamingContentEntity content = _repo.GetStreamingContentByTitle(userInput);
+
+        if (content != null)
+        {
+            StreamingContentEntity updatedData = AddStreamingContentDetails();
+            if(_repo.UpdateExistingContent(userInput, updatedData))
+            {
+                System.Console.WriteLine("content was successfully updated!");
+            }
+            else
+            {
+                System.Console.WriteLine("failed to update");
+            }
+        }
+        else
+        {
+            System.Console.WriteLine("invalid title. could not find results.");
+        }
+
         PressAnyKey();
     }
 
